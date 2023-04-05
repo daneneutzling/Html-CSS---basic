@@ -1,6 +1,6 @@
 # Pág. Web Responsiva com Bootstrap
 
-<b>Objetivo:</b> Desenvolver página responsiva, utilizando o conceito de <em>Mobile First</em>.
+<b>Objetivo:</b> Desenvolver página web simples, que seja responsiva, utilizando o conceito de <em>Mobile First</em>.
 <br>
 <b>Utilização de:</b>
 - HTML;
