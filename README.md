@@ -1,9 +1,10 @@
 # Pág. Web Responsiva com Bootstrap
 
-<b>Objetivo:</b> Desenvolver página responsiva, utilizando o conceito de Mobile First.
+<b>Objetivo:</b> Desenvolver página responsiva, utilizando o conceito de <em>Mobile First</em>.
+<br>
 <b>Utilização de:</b>
 - HTML;
 - CSS;
 - Bootstrap.
 
-<p>Disciplina de Desenvolvimento de Sistemas II - IFRS - Campus Farroupilha</p>
+<em>Disciplina de Desenvolvimento de Sistemas II - IFRS - Campus Farroupilha</em>
