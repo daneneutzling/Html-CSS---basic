@@ -1,1 +1,5 @@
-"# Html-CSS---basic" 
+"# Pág. Web Responsiva" 
+
+- HTML
+- CSS
+- Bootstrap
