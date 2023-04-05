@@ -1,0 +1,27 @@
+.silicon-valley {
+    margin-left: 2%;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.barra-navegacao {
+    margin-left: auto;
+}
+
+.botao {
+    margin-left: auto;
+}
+
+.img-size {
+    width: 300px;
+    height: 230px;
+}
+
+.texto-information {
+    font-weight: bold;
+    color: black;
+}
+
+footer {
+    background-color: rgb(255, 208, 113);
+}
